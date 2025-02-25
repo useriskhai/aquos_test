@@ -31,7 +31,7 @@ class Home extends StatelessWidget {
                     minute: 9,
                   );
                 },
-                child: const Text("Schedule Notification")),
+                child: const Text("Schedule Notification later")),
           ],
         ),
       ),
